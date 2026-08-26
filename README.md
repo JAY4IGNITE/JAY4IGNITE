@@ -30,6 +30,7 @@
 
 <h2 align="center">About Me</h2>
 
+<img align="left" src="assets/cat.png" width="120" alt="Cute Cat">
 <img align="right" src="assets/laptop_sprite.png" width="130" alt="Coding Sprite">
 
 Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build intelligent applications that bridge the gap between AI and the web, and I'm currently diving deep into mastering **Data Structures & Algorithms**.
@@ -66,8 +67,6 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="Lego 3D contribution calendar">
 </picture>
-
-<img align="left" src="assets/cat.png" width="120" alt="Cute Cat">
 
 <br><br>
 
