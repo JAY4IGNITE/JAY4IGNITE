@@ -2,20 +2,20 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "RevenueOS",
+      "description": "An AI-native revenue optimization platform that predicts customer intent, simulates offers, and safely executes actions."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "StudyForge-AI",
+      "description": "AI-powered adaptive learning platform that generates personalized practice questions and evaluates text and voice responses."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "IntelliRepo",
+      "description": "AI-Driven Software Architecture Analysis and Code Intelligence Platform."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "EaseMotion-css",
+      "description": "Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies."
     }
   ]
 }

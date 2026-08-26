@@ -141,40 +141,40 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/JAY4IGNITE/dossier">
+  <a href="https://github.com/JAY4IGNITE/RevenueOS">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-RevenueOS-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-RevenueOS-light.svg">
+      <img src="assets/card-RevenueOS-dark.svg" width="420" alt="RevenueOS">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/JAY4IGNITE/Sage">
+  <a href="https://github.com/JAY4IGNITE/StudyForge-AI">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-StudyForge-AI-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-StudyForge-AI-light.svg">
+      <img src="assets/card-StudyForge-AI-dark.svg" width="420" alt="StudyForge-AI">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/JAY4IGNITE/Socrates">
+  <a href="https://github.com/JAY4IGNITE/IntelliRepo">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-IntelliRepo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-IntelliRepo-light.svg">
+      <img src="assets/card-IntelliRepo-dark.svg" width="420" alt="IntelliRepo">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/JAY4IGNITE/humanOS">
+  <a href="https://github.com/JAY4IGNITE/EaseMotion-css">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-EaseMotion-css-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-EaseMotion-css-light.svg">
+      <img src="assets/card-EaseMotion-css-dark.svg" width="420" alt="EaseMotion-css">
     </picture>
   </a>
 </td>
@@ -185,10 +185,10 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/JAY4IGNITE/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/JAY4IGNITE/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/JAY4IGNITE/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/JAY4IGNITE/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[RevenueOS](https://github.com/JAY4IGNITE/RevenueOS)** | - | `Python` `AI` |
+| **[StudyForge-AI](https://github.com/JAY4IGNITE/StudyForge-AI)** | - | `TypeScript` `AI` |
+| **[IntelliRepo](https://github.com/JAY4IGNITE/IntelliRepo)** | - | `TypeScript` `Code Intelligence` |
+| **[EaseMotion-css](https://github.com/JAY4IGNITE/EaseMotion-css)** | - | `CSS` `Framework` |
 
 </sub>
 
