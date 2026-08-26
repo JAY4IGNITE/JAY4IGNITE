@@ -37,7 +37,6 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
 - Currently building **[Sage](https://github.com/JAY4IGNITE/Sage)** and **[Spyder](https://github.com/JAY4IGNITE/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
 - Learning **Data Structures & Algorithms**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
