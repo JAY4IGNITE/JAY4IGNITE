@@ -23,6 +23,8 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       # The SVGs are pushed to an orphan `output` branch so they never clutter
       # main. The README points at raw.githubusercontent.com/.../output/...
