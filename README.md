@@ -41,8 +41,6 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 
 <h2 align="center">Tech Stack</h2>
 
-<img align="right" src="assets/amongus.png" height="120" alt="Among Us Hacker">
-
 <div align="center">
 
 | Category | Technologies |
@@ -81,8 +79,6 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 <br>
 
 <h2 align="center">Statistics</h2>
-
-<img align="left" src="assets/dino.png" height="100" alt="Dino and Alien">
 
 <div align="center">
 
