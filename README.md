@@ -98,7 +98,10 @@ and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-  <img src="assets/metrics.leetcode.svg" width="50%" alt="leetcode stats">
+  <br>
+  <a href="https://leetcode.com/u/krishna_0409">
+    <img src="https://leetcard.jacoblin.cool/krishna_0409?theme=dark&font=syne&ext=activity" width="60%" alt="LeetCode Stats">
+  </a>
 </td>
 </tr>
 </table>
