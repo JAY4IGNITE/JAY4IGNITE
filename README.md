@@ -45,9 +45,14 @@ and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
 <div align="center">
 
-## `~/` toolbox
+## 🛠️ Core Tooling & Technologies
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+| Category | Technologies |
+| :--- | :--- |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" height="40" alt="Web Development" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,js,postgres,mongodb,jwt,oauth" height="40" alt="Backend & Database" /> |
+| **AI & Core** | <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp" height="40" alt="AI & Core" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" height="40" alt="Tools & Platforms" /> |
 
 </div>
 
