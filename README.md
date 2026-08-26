@@ -22,6 +22,7 @@
 <a href="https://leetcode.com/u/krishna_0409"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <br><br>
+<img align="left" src="assets/cat.png" width="100" alt="Cute Cat">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
@@ -30,7 +31,6 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" src="assets/cat.png" width="120" alt="Cute Cat">
 <img align="right" src="assets/laptop_sprite.png" width="130" alt="Coding Sprite">
 
 Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build intelligent applications that bridge the gap between AI and the web, and I'm currently diving deep into mastering **Data Structures & Algorithms**.
