@@ -17,10 +17,10 @@
 
 <!-- SOCIALS -->
 <a href="https://linkedin.com/in/JAY4IGNITE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:JAY4IGNITE@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:jayasaikrishnavasamsetti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://codeforces.com/profile/JAY4IGNITE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/JAY4IGNITE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/krishna_0409"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=JAY4IGNITE&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -127,6 +127,10 @@ and I solve problems for fun when neither of those is cooperating.
 <br><br>
 
 <img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+
+<br><br>
+
+<img src="assets/metrics.leetcode.svg" width="90%" alt="leetcode stats">
 
 </div>
 
