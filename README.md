@@ -30,6 +30,8 @@
 
 <h2 align="center">About Me</h2>
 
+<img align="right" src="assets/laptop_sprite.png" width="130" alt="Coding Sprite">
+
 Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build intelligent applications that bridge the gap between AI and the web, and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
 - 🎓 **Computer Science and Engineering** student at **Aditya University**
@@ -79,6 +81,8 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 <br>
 
 <h2 align="center">Statistics</h2>
+
+<img align="left" src="assets/music_sprite.png" width="110" alt="Music Sprite">
 
 <div align="center">
 
