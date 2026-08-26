@@ -80,8 +80,8 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 
 <h2 align="center">Statistics</h2>
 
-<img align="left" src="assets/music_sprite.png" height="130" alt="Music Sprite">
-<img align="right" src="assets/detective_sprite.png" height="130" alt="Detective Sprite">
+<img align="left" src="assets/music_sprite.png" width="120" alt="Music Sprite">
+<img align="right" src="assets/detective_sprite.png" width="120" alt="Detective Sprite">
 
 <div align="center">
 
