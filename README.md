@@ -22,8 +22,6 @@
 <a href="https://leetcode.com/u/krishna_0409"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=JAY4IGNITE&style=flat&color=39d353&label=profile+views" alt="profile views">
-<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
@@ -37,6 +35,7 @@ $ cat about.txt
 Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build intelligent applications that bridge the gap between AI and the web,
 and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
+- Computer Science and Engineering student at **Aditya University**
 - Currently building **[Sage](https://github.com/JAY4IGNITE/Sage)** and **[Spyder](https://github.com/JAY4IGNITE/spyder_frontend)**
 - Learning **Data Structures & Algorithms**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
