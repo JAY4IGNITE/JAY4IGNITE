@@ -10,10 +10,10 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/JAY4IGNITE">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Jaya+Sai+Krishna;Full+Stack+Python+AI+Developer;Learning+Data+Structures+%26+Algorithms;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Jaya+Sai+Krishna;Full+Stack+Python+AI+Developer;Enthusiastic+to+Learn+Data+Structures+%26+Algorithms;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
-<br>
+<br>  
 
 <!-- SOCIALS -->
 <a href="https://linkedin.com/in/JAY4IGNITE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
