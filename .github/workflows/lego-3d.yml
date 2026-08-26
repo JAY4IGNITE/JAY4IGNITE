@@ -21,12 +21,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       
-      # Push the generated SVGs to the `output` branch (similar to snake)
-      - name: Push to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output-lego
-          build_dir: profile-3d-contrib
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      # Commit the generated SVGs to the main branch
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/
+          git commit -m "chore: update Lego 3D graph" || exit 0
+          git push
