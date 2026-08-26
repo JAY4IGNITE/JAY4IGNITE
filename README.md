@@ -164,3 +164,11 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 </sub>
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="assets/dino.png" height="80" alt="Dino and Alien">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/amongus.png" height="80" alt="Among Us Hacker">
+</div>
