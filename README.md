@@ -44,7 +44,7 @@ and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
 <div align="center">
 
-## 🛠️ Core Tooling & Technologies
+## Core Tooling & Technologies
 
 | Category | Technologies |
 | :--- | :--- |
