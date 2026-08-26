@@ -67,6 +67,8 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="Lego 3D contribution calendar">
 </picture>
 
+<img align="left" src="assets/cat.png" width="120" alt="Cute Cat">
+
 <br><br>
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
