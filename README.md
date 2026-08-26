@@ -94,9 +94,7 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 <tr>
 <td colspan="2" align="center" valign="top">
   <br>
-  <a href="https://leetcode.com/u/krishna_0409">
-    <img src="https://leetcard.jacoblin.cool/krishna_0409?theme=tokyonight&font=syne&ext=activity" width="60%" alt="LeetCode Stats">
-  </a>
+  <img src="assets/metrics.leetcode.svg" width="60%" alt="LeetCode Stats">
 </td>
 </tr>
 </table>
