@@ -21,7 +21,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://leetcode.com/u/krishna_0409"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <br>
-<img align="left" src="assets/cat.png" width="100" alt="Cute Cat">
+<img align="left" src="assets/cat.png" height="85" alt="Cute Cat">
+<img align="right" src="assets/cat_peace.png" height="85" alt="Peace Cat">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br>
