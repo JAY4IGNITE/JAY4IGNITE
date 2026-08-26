@@ -80,7 +80,7 @@ Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build inte
 
 <h2 align="center">Statistics</h2>
 
-<img align="left" src="assets/music_sprite.png" width="110" alt="Music Sprite">
+<img align="left" src="assets/music_sprite.png" width="80" alt="Music Sprite">
 <img align="right" src="assets/claude_sticker.png" width="110" alt="Claude Sticker">
 
 <div align="center">
