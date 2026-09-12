@@ -34,7 +34,6 @@
 Hi, I'm **Jaya Sai Krishna**, a **Full Stack Python AI Developer**. I build intelligent applications that bridge the gap between AI and the web, and I'm currently diving deep into mastering **Data Structures & Algorithms**.
 
 - 🎓 **Computer Science and Engineering** student at **Aditya University**
-- 🚀 Currently building **[Sage](https://github.com/JAY4IGNITE/Sage)** and **[Spyder](https://github.com/JAY4IGNITE/spyder_frontend)**
 - 🧠 Learning **Data Structures & Algorithms**
 - ⚡ Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
