@@ -63,14 +63,14 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x208</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x110</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x214</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x111</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x85</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x84</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x83</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x54</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x57</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x48</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x45</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x23</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x46</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x25</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x22</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x21</span></div>
                     </div>
