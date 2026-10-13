@@ -16,22 +16,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # ------------------------------------------------------------------ #
-      # Base stats with lines of code
+      # Base stats
       # ------------------------------------------------------------------ #
       - name: Base stats
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JAY4IGNITE
           filename: assets/metrics.base.svg
           base: header, activity, community, repositories, metadata
-          plugin_lines: yes
 
       # ------------------------------------------------------------------ #
       # Coding habits: commits per hour of day, per weekday, language activity
       # ------------------------------------------------------------------ #
       - name: Coding habits
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JAY4IGNITE
@@ -50,6 +51,7 @@ jobs:
       # ------------------------------------------------------------------ #
       - name: Languages
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JAY4IGNITE
@@ -69,6 +71,7 @@ jobs:
       # ------------------------------------------------------------------ #
       - name: LeetCode
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: NOT_NEEDED
           user: JAY4IGNITE
