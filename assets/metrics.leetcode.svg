@@ -64,13 +64,13 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x230</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x117</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x92</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x118</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x94</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x89</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x62</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x51</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x47</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x28</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x26</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x22</span></div>
                     </div>
